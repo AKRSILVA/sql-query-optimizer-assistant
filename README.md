@@ -4,6 +4,8 @@ Ferramenta que analisa queries SQL e identifica padroes que prejudicam performan
 
 Projeto de portfolio para demonstrar conhecimento pratico em SQL, banco de dados relacional e Python, com foco em diagnostico de performance de queries (e nao apenas em um CRUD comum).
 
+Link: https://sql-query-optimizer-assistant-q7xcoybpc6ekwgskzzkdb8.streamlit.app/
+
 ## Como funciona
 
 1. Voce cola uma query SQL (ou carrega um dos exemplos prontos).
